@@ -40,7 +40,7 @@ The system architecture involves:
 5. **Visualization**: AWS QuickSight builds interactive dashboards for insights.
 
 ### Architecture Diagram
-![Architecture Diagram Placeholder](https://github.com/anandj25/YouTube-Analytics-AWS/blob/main/AWS%20Architecture/Architecture%20Detailed.jpg/600x400)
+![Architecture Diagram](https://github.com/anandj25/YouTube-Analytics-AWS/blob/main/AWS%20Architecture/Architecture%20Detailed.jpg)
 
 ---
 
