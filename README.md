@@ -109,4 +109,4 @@ The system architecture involves:
 - [YouTube API Documentation](https://developers.google.com/youtube/v3/getting-started)
 - [Dashboard Link (Requires Account)](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/4e5f0d59-4fa3-430e-9c9b-9e1da61a0ea1)
 
-For additional details or access to the dashboard, please contact the project maintainer.
+
